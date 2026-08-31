@@ -9,3 +9,4 @@ screenshots/**
 **/.DS_Store
 icon.svg
 RELEASE.md
+build/**
