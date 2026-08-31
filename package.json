@@ -1,0 +1,46 @@
+{
+  "name": "chick-chaos",
+  "displayName": "Chick Chaos",
+  "description": "High-contrast dark theme. Pure black editor, olive sidebar, teal terminal, and syntax colors loud enough to keep your eyes on the code.",
+  "version": "0.0.1",
+  "publisher": "DOOYEE",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "color-theme",
+    "high contrast",
+    "black",
+    "neon",
+    "chick",
+    "chaos"
+  ],
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DOOYEE0709/chick-chaos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DOOYEE0709/chick-chaos/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chick Chaos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chick-chaos-color-theme.json"
+      }
+    ]
+  }
+}

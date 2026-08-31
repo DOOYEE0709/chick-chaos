@@ -1,0 +1,6 @@
+node_modules/
+*.vsix
+.DS_Store
+RELEASE.md
+screenshots/src/chick-base.png
+screenshots/src/icon-build.html
