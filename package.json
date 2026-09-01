@@ -2,7 +2,7 @@
   "name": "chick-chaos",
   "displayName": "Chick Chaos",
   "description": "High-contrast dark theme. Pure black editor, olive sidebar, teal terminal, and syntax colors loud enough to keep your eyes on the code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DOOYEE",
   "license": "MIT",
   "icon": "icon.png",
