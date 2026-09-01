@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.2
+
+- Improved comment readability with a brighter blue-gray foreground color.
+- Updated theme color settings to resolve current VS Code schema warnings, including transparent editor overlays and supported indentation-guide keys.
+
 ## 0.0.1
 
 First hatch.

@@ -37,6 +37,6 @@ export default {
   synCyan:    '#3de9ff',  // enum 멤버
   synBlue:    '#30a2ff',  // 함수
   synGreen:   '#95ff48',  // 문자열
-  synComment: '#5e687b',  // 주석
+  synComment: '#9aa9c2',  // 주석
   synInvalid: '#f44747',  // 잘못된 토큰
 };
