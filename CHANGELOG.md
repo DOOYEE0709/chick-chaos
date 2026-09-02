@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.3
+
+- Remove repository and issue-tracker links from Marketplace resources.
+
 ## 0.0.2
 
 - Improved comment readability with a brighter blue-gray foreground color.
